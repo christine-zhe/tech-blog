@@ -3,6 +3,7 @@ const { Post } = require('../models');
 const postdata = [
   {
     title: 'Why MVS is so important',
+    post_url: 'https://nasa.gov/donec.json',
     user_id: 10
   },
   {
